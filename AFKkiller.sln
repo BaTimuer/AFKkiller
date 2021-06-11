@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFKkiller", "AFKkiller\AFKkiller.csproj", "{A7FF048E-8C43-40ED-96D1-FFE0C5CC84CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7FF048E-8C43-40ED-96D1-FFE0C5CC84CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FF048E-8C43-40ED-96D1-FFE0C5CC84CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FF048E-8C43-40ED-96D1-FFE0C5CC84CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FF048E-8C43-40ED-96D1-FFE0C5CC84CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB68C0BE-0C24-42E1-A177-646BF230EF44}
+	EndGlobalSection
+EndGlobal
